@@ -42,7 +42,6 @@ staticfiles/
 # Ignorar arquivos compilados
 *.sass-cache
 *.css.map
-*.css
 
 # Ignorar arquivos de compilação de frontend
 node_modules/
